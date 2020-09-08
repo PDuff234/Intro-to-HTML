@@ -1,0 +1,16 @@
+body {
+background-color: crimson;
+}
+p {
+border: 8px left purple;
+}
+#p01 {
+background-color: black; 
+color: white; 
+font-family: sen; 
+font-size: 75%; 
+}
+h1.error {
+font-family: verdana; 
+font-size: 175%;
+}
